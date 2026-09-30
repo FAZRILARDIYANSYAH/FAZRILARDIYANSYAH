@@ -403,24 +403,35 @@ Focused on:
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSHYAH&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZRILARDIYANSHYAH&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSYAH&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZRILARDIYANSYAH&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FAZRILARDIYANSHYAH&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FAZRILARDIYANSYAH&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FAZRILARDIYANSHYAH&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FAZRILARDIYANSYAH&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FAZRILARDIYANSHYAH/FAZRILARDIYANSHYAH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FAZRILARDIYANSHYAH/FAZRILARDIYANSHYAH/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/FAZRILARDIYANSHYAH/FAZRILARDIYANSHYAH/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
 
