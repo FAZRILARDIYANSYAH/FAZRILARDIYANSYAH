@@ -1,33 +1,28 @@
 <h1 align="center">Muhamad Fazril Ardiyansyah Putra</h1>
 
-<p align="center">
-  <b>Software Engineering Student · Full-Stack Developer</b>
-</p>
+<p align="center"> <b>Software Engineering Student • Full-Stack Developer</b><br> <sub>Building modern web applications, mobile apps, APIs, and practical digital solutions</sub> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Full-Stack+Web+%26+Mobile+Developer.;Turning+ideas+into+working+systems.;Always+learning%2C+building%2C+and+improving." />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+modern+full-stack+applications.;Turning+ideas+into+real+digital+products.;Next.js+%E2%86%92+React+%E2%86%92+API+%E2%86%92+Database.;Software+Engineering+student+from+Indonesia." /> </p>
 
-<p align="center">
-  <a href="https://github.com/FAZRILARDIYANSYAH">
-    <img src="https://img.shields.io/badge/GitHub-FAZRILARDIYANSYAH-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/fazril-ardiyansyah-18a00941a">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSYAH&label=Views&color=3B82F6&style=flat-square" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSHYAH&label=Profile%20Views&color=3B82F6&style=flat-square"> <img src="https://img.shields.io/badge/Location-Depok%2C%20Indonesia-3B82F6?style=flat-square"> <img src="https://img.shields.io/badge/Focus-Software%20Engineering-3B82F6?style=flat-square"> </p>
+
+<p align="center"> <a href="mailto:fazrilardiyansyah@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/fazril-ardiyansyah-18a00941a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/FAZRILARDIYANSHYAH"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> </a> </p>
 
 <br>
 
-## About Me
+About
 
-I'm a **Software Engineering student** from **SMK Taruna Bhakti, Depok**, focused on building modern web and mobile applications.
+I'm a Software Engineering student from SMK Taruna Bhakti, Depok, Indonesia, with a strong interest in building practical and modern digital products.
 
-I enjoy working across the stack — from crafting interfaces and building APIs to designing databases, authentication systems, and deployment workflows.
+My main focus is full-stack web development, while also exploring mobile development, backend systems, databases, and modern software architecture.
 
-My current direction is **full-stack software engineering**, with a particular interest in creating applications that are practical, scalable, and enjoyable to use.
+I enjoy turning ideas into working applications — from designing the user interface and building APIs to connecting databases, authentication, deployment, and maintaining the overall system.
 
+IDEA → UI → FRONTEND → API → BACKEND → DATABASE → DEPLOYMENT
+
+Currently, I'm continuously improving my skills through personal projects, school projects, real-world work, and hands-on experimentation with modern development technologies.
+
+<br>
 ```text
 IDEA
  ↓
