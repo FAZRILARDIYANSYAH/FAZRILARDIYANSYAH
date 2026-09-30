@@ -1,194 +1,80 @@
 <h1 align="center">Muhamad Fazril Ardiyansyah Putra</h1>
 
 <p align="center">
-  <b>Software Engineering Student • Full-Stack Developer</b><br>
-  <sub>Building modern web applications, mobile apps, APIs, and practical digital solutions</sub>
+  <b>Software Engineering Student · Full-Stack Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+modern+full-stack+applications.;Turning+ideas+into+real+digital+products.;Next.js+%E2%86%92+React+%E2%86%92+API+%E2%86%92+Database.;Software+Engineering+student+from+Indonesia." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Full-Stack+Web+%26+Mobile+Developer.;Turning+ideas+into+working+systems.;Always+learning%2C+building%2C+and+improving." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSHYAH&label=Profile%20Views&color=3B82F6&style=flat-square">
-  <img src="https://img.shields.io/badge/Location-Depok%2C%20Indonesia-3B82F6?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-3B82F6?style=flat-square">
-</p>
-
-<p align="center">
-  <a href="mailto:fazrilardiyansyah@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <a href="https://github.com/FAZRILARDIYANSYAH">
+    <img src="https://img.shields.io/badge/GitHub-FAZRILARDIYANSYAH-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/fazril-ardiyansyah-18a00941a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/FAZRILARDIYANSHYAH">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSYAH&label=Views&color=3B82F6&style=flat-square" />
 </p>
 
 <br>
 
-## About
+## About Me
 
-I'm a **Software Engineering student** from **SMK Taruna Bhakti, Depok, Indonesia**, with a strong interest in building practical and modern digital products.
+I'm a **Software Engineering student** from **SMK Taruna Bhakti, Depok**, focused on building modern web and mobile applications.
 
-My main focus is **full-stack web development**, while also exploring mobile development, backend systems, databases, and modern software architecture.
+I enjoy working across the stack — from crafting interfaces and building APIs to designing databases, authentication systems, and deployment workflows.
 
-I enjoy turning ideas into working applications — from designing the user interface and building APIs to connecting databases, authentication, deployment, and maintaining the overall system.
-
-```text
-IDEA → UI → FRONTEND → API → BACKEND → DATABASE → DEPLOYMENT
-```
-
-Currently, I'm continuously improving my skills through personal projects, school projects, real-world work, and hands-on experimentation with modern development technologies.
-
-<br>
-
-## Current Focus
+My current direction is **full-stack software engineering**, with a particular interest in creating applications that are practical, scalable, and enjoyable to use.
 
 ```text
-Frontend      → Next.js, React, TypeScript, Tailwind CSS
-Backend       → Node.js, Express.js, Laravel
-Database      → PostgreSQL, Supabase, MySQL, SQLite
-Mobile        → React Native, Expo
-Architecture  → REST API, Authentication, Role-Based Access
-Deployment    → Vercel, VPS, GitHub, Cloud Services
-Tools         → Git, GitHub, VS Code, Postman
+IDEA
+ ↓
+DESIGN
+ ↓
+FRONTEND
+ ↓
+API
+ ↓
+DATABASE
+ ↓
+DEPLOYMENT
+ ↓
+PRODUCT
 ```
 
-**What I'm currently building and learning**
+---
 
-```text
-🌐  Full-stack web applications
-📱  Mobile applications with React Native
-🔐  Authentication & role-based systems
-🗄️  PostgreSQL & Supabase-based applications
-🚀  Production-ready frontend & backend architecture
-🎨  Modern and responsive UI/UX
-☁️  Deployment and application hosting
-🧩  API integration and system architecture
-```
-
-<br>
-
-## Technical Expertise
+## What I Build
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="33%" align="center">
 
-### Software Engineering
+### 🌐 Web
 
-* Full-stack web application development
-* REST API development
-* Frontend & backend architecture
-* Authentication & authorization
-* Role-based access control
-* CRUD-based systems
-* Responsive web development
-* Git & GitHub workflow
-* Database integration
-
-### Frontend Development
-
-* Next.js
-* React
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Responsive UI
-* Framer Motion
-* React Icons
-* Chart.js / Recharts
-
-### Backend Development
-
-* Node.js
-* Express.js
-* Laravel
-* REST API
-* Authentication
-* Middleware
-* File upload systems
-* API integration
+Modern responsive applications with Next.js and React.
 
 </td>
 
-<td valign="top" width="50%">
+<td width="33%" align="center">
 
-### Database
+### ⚙️ Backend
 
-* PostgreSQL
-* Supabase
-* MySQL
-* SQLite
-* Prisma
-* SQL fundamentals
-* Database relationships
-* CRUD operations
+REST APIs, authentication, databases, and server-side systems.
 
-### Mobile Development
+</td>
 
-* React Native
-* Expo
-* Expo Router
-* React Native Paper
-* API integration
-* Mobile authentication
-* Local/network-based development
+<td width="33%" align="center">
 
-### Development Practices
+### 📱 Mobile
 
-* Git & GitHub
-* Branching & collaboration
-* Debugging
-* API testing with Postman
-* Environment variables
-* Component-based architecture
-* Clean project structure
-* Responsive design
-
-### Other Interests
-
-* Software architecture
-* Cloud deployment
-* System integration
-* UI/UX implementation
-* Networking fundamentals
-* Practical cybersecurity
-* Digital product development
+Cross-platform applications using React Native and Expo.
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## Technical Maturity
-
-```text
-CORE
-Next.js · React · JavaScript · TypeScript
-Node.js · Express.js · PostgreSQL · Supabase
-Git · GitHub · Tailwind CSS
-
-APPLIED
-REST API · Authentication · Role-Based Access
-Laravel · MySQL · SQLite · Prisma
-React Native · Expo · Framer Motion
-Vercel · Postman · Responsive UI
-
-DEVELOPING
-Advanced Backend Architecture
-Cloud Deployment & VPS
-System Design
-Networking
-Cybersecurity Fundamentals
-Mobile Application Architecture
-```
 
 <br>
 
@@ -200,213 +86,144 @@ Mobile Application Architecture
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
-
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql,sqlite,prisma,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql,sqlite,supabase,prisma" />
 </p>
 
-`Node.js` `Express.js` `Laravel` `PHP` `PostgreSQL` `MySQL` `SQLite` `Prisma` `Supabase`
-
-### Mobile
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" />
 </p>
-
-`React Native` `Expo` `Expo Router` `React Native Paper`
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,figma" />
-</p>
-
-`Git` `GitHub` `VS Code` `Postman` `Docker` `Vercel` `Figma`
 
 <br>
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚨 AduanRakyat
 
-Public reporting platform designed to provide a structured channel for citizens to submit and monitor public reports.
+Public reporting platform designed to provide a structured channel for citizens to submit and monitor reports.
 
-**Features**
+**Built with**
 
-* User authentication
+`Next.js` `React` `Express.js` `PostgreSQL` `Supabase`
+
+**Highlights**
+
+* Authentication
 * Role-based access
-* Public report submission
-* Report status tracking
+* Report management
 * Admin dashboard
-* Superadmin management
-* Categories
 * Comments
 * Image upload
 * Location integration
 
-**Stack**
+</td>
 
-`Next.js` `React` `Node.js` `Express.js` `PostgreSQL` `Supabase` `Tailwind CSS`
+<td width="50%" valign="top">
 
----
+### 🎟️ TixGoo
 
-### 🎟️ TixGoo — Concert Ticketing Platform
+Concert ticketing platform focused on event management, ticket purchasing, payment flow, and digital e-tickets.
 
-A concert ticketing platform developed as a school competency project, focusing on event management, ticket purchasing, payment flow, and digital e-tickets.
+**Built with**
 
-**Planned / implemented features**
+`Next.js` `TypeScript` `Express.js` `Supabase`
 
-* Event listing
-* Event details
+**Highlights**
+
+* Event management
 * Ticket selection
-* Order management
-* Payment integration
-* QRIS payment flow
-* E-ticket generation
+* Order system
+* Payment flow
+* QRIS
+* E-ticket
 * Barcode / QR ticket
-* Payment proof
-* Admin management
 
-**Stack**
+</td>
+</tr>
 
-`Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Supabase` `Midtrans`
-
----
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Tricatha Sempiternal Asia
 
-Corporate website project for **PT Tricatha Sempiternal Asia**, designed as a professional multi-page company profile and digital presence.
+Professional corporate website for PT Tricatha Sempiternal Asia.
 
-The project focuses on:
-
-* Corporate branding
-* Business group presentation
-* Services
-* Portfolio
-* Events
-* Articles & news
-* Internship information
-* FAQ
-* Contact flow
-* Responsive design
-* Professional animation and interaction
-
-**Stack**
+**Built with**
 
 `React` `Vite` `JavaScript` `CSS`
 
----
+**Highlights**
+
+* Multi-page architecture
+* Corporate branding
+* Business group
+* Services
+* Portfolio
+* Events
+* Articles
+* Contact system
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📱 AduanRakyat Mobile
 
-Mobile companion application for the AduanRakyat reporting platform.
+Mobile companion application for the AduanRakyat platform.
 
-The application focuses on the citizen experience for submitting and monitoring public reports.
+**Built with**
 
-**Stack**
+`React Native` `Expo` `Expo Router`
 
-`React Native` `Expo` `Expo Router` `React Native Paper`
+**Highlights**
 
----
-
-### 💼 Portfolio Website
-
-Personal developer portfolio showcasing projects, technical skills, certifications, and development experience.
-
-Designed with a modern dark aesthetic and focused on presenting software engineering work in a professional way.
-
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-<br>
-
-## Other Projects
-
-| Project                    | Description                                      | Stack                          |
-| -------------------------- | ------------------------------------------------ | ------------------------------ |
-| 🚨 AduanRakyat             | Public reporting platform                        | Next.js · Express · PostgreSQL |
-| 🎟️ TixGoo                 | Concert ticketing platform                       | Next.js · Express · Supabase   |
-| 🌐 TSA Website             | Corporate company profile                        | React · Vite                   |
-| 📱 AduanRakyat Mobile      | Citizen reporting mobile app                     | React Native · Expo            |
-| 💼 Portfolio               | Personal developer portfolio                     | Next.js · TypeScript           |
-| 🧩 Various School Projects | Software engineering assignments and experiments | JavaScript · PHP · Python      |
-
-<br>
-
-## Experience & Activities
-
-### Software Engineering
-
-Developing applications through school projects, personal projects, and real-world development workflows.
-
-My experience includes working with:
-
-* Frontend development
-* Backend development
-* Database systems
-* REST APIs
+* Report submission
 * Authentication
-* Git collaboration
-* Deployment
-* Debugging and maintenance
-* Client-oriented web development
-
-### IT & Systems
-
-I'm also gaining practical experience in IT environments involving:
-
-* Website development
 * API integration
-* Database management
-* System troubleshooting
-* WhatsApp Business API
-* Email outreach systems
-* Company website development
-* Internal digital systems
+* Mobile-first experience
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Certifications
+## Development Focus
 
-Some of my completed learning and professional development achievements include:
+```text
+FULL-STACK
+Next.js · React · TypeScript · Node.js · Express.js
 
-| Certification / Achievement                           | Organization        |
-| ----------------------------------------------------- | ------------------- |
-| Software Project Management — Pass with Perfect Score | Dicoding Indonesia  |
-| Dicoding Learning Experience                          | Dicoding Indonesia  |
-| Software Engineering Projects                         | SMK Taruna Bhakti   |
-| Full-Stack Development Projects                       | Personal / Academic |
+BACKEND
+REST API · Authentication · Authorization · PostgreSQL
 
-<br>
+DATABASE
+Supabase · PostgreSQL · MySQL · SQLite
 
-## Education
+MOBILE
+React Native · Expo
 
-### SMK Taruna Bhakti — Depok, Indonesia
+ENGINEERING
+Git · GitHub · Docker · API Design · System Architecture
 
-**Software Engineering — XII RPL 5**
-
-Focused on:
-
-* Software engineering
-* Web development
-* Programming
-* Database systems
-* Application development
-* Software analysis
-* Project development
+DEPLOYMENT
+Vercel · VPS · Environment Configuration
+```
 
 <br>
 
-## GitHub Statistics
-
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSYAH&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSYAH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZRILARDIYANSYAH&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -414,68 +231,83 @@ Focused on:
   <img src="https://streak-stats.demolab.com?user=FAZRILARDIYANSYAH&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FAZRILARDIYANSYAH&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" />
-</p>
+<br>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/FAZRILARDIYANSYAH/FAZRILARDIYANSYAH/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
+## Achievements
+
+<table>
+<tr>
+<td>
+
+🥈 **2nd Place — Business Poster & Pitching Competition**
+
+Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII
+
+**2026**
+
+</td>
+<td>
+
+🏅 **Finalist — Entrepreneurship Award VIII**
+
+**2024**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Goals
+## Certification
 
-* Build production-ready full-stack applications
-* Strengthen advanced Next.js and React development
-* Improve backend architecture and API design
-* Build scalable PostgreSQL and Supabase applications
-* Develop better mobile applications with React Native
-* Improve cloud deployment and server management skills
-* Strengthen software architecture and system design fundamentals
-* Continue learning networking and cybersecurity
-* Build and contribute to meaningful open-source projects
-* Create digital products that solve practical problems
-* Continue growing as a professional Software Engineer
+<p align="center">
+  <img src="https://img.shields.io/badge/Dicoding-Software%20Project%20Management-3B82F6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>Pass with Perfect Score</sub>
+</p>
 
 <br>
 
 ## Currently Learning
 
 ```text
-Next.js
+Advanced Next.js
 TypeScript
-React Native
-Node.js / Express
+Backend Architecture
 PostgreSQL
 Supabase
-Laravel
+React Native
 Docker
 Cloud Deployment
-System Architecture
+System Design
 Networking
-Cybersecurity
+Cybersecurity Fundamentals
 ```
 
 <br>
 
+## Goals
+
+* Build production-ready full-stack applications
+* Develop scalable backend architectures
+* Improve system design and database engineering
+* Build better mobile applications
+* Strengthen cloud and deployment skills
+* Contribute to open-source projects
+* Create digital products that solve real problems
+
+<br>
+
 <p align="center">
-  <i>"Building ideas into practical digital solutions."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <sub>Muhamad Fazril Ardiyansyah Putra · Software Engineering · SMK Taruna Bhakti · Depok, Indonesia</sub>
+  <b>Build. Learn. Ship. Repeat.</b>
+</p>
+
+<p align="center">
+  <sub>Muhamad Fazril Ardiyansyah Putra · Software Engineering · Indonesia</sub>
 </p>
