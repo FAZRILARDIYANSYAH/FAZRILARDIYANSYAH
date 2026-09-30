@@ -1,7 +1,11 @@
 <h1 align="center">Muhamad Fazril Ardiyansyah Putra</h1>
 
 <p align="center">
-  <b>Software Engineering Student · Full-Stack Developer</b>
+  <b>Software Engineering Student · Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Full-Stack+Web+%26+Mobile+Developer.;Turning+ideas+into+working+systems.;Always+learning%2C+building%2C+and+improving." />
 </p>
 
 <p align="center">
@@ -40,17 +44,17 @@ My current direction is **full-stack software engineering**, with a particular i
 
 ```text
 IDEA
- ↓
+ ↓
 DESIGN
- ↓
+ ↓
 FRONTEND
- ↓
+ ↓
 API
- ↓
+ ↓
 DATABASE
- ↓
+ ↓
 DEPLOYMENT
- ↓
+ ↓
 PRODUCT
 ```
 
@@ -93,19 +97,19 @@ Cross-platform applications using React Native and Expo.
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql,sqlite,supabase,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql,sqlite,supabase,prisma" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" />
 </p>
 
 <br>
@@ -233,12 +237,12 @@ Vercel · VPS · Environment Configuration
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSYAH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZRILARDIYANSYAH&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAZRILARDIYANSYAH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZRILARDIYANSYAH&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FAZRILARDIYANSYAH&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FAZRILARDIYANSYAH&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
@@ -271,11 +275,11 @@ Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII
 ## Certification
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dicoding-Software%20Project%20Management-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dicoding-Software%20Project%20Management-3B82F6?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <sub>Pass with Perfect Score</sub>
+  <sub>Pass with Perfect Score</sub>
 </p>
 
 <br>
@@ -311,13 +315,14 @@ Cybersecurity Fundamentals
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <b>Build. Learn. Ship. Repeat.</b>
+  <b>Build. Learn. Ship. Repeat.</b>
 </p>
 
 <p align="center">
-  <sub>Muhamad Fazril Ardiyansyah Putra · Software Engineering · Indonesia</sub>
+  <sub>Muhamad Fazril Ardiyansyah Putra · Software Engineering · Indonesia</sub>
 </p>
+coba benerin code saya biar tampilan itunya tuh sama kaya di  foto soallnya yang saya ga kaya di foto yg foto tuh contoh punya orang
