@@ -5,17 +5,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Full-Stack+Web+%26+Mobile+Developer.;Turning+ideas+into+working+systems.;Always+learning%2C+building%2C+and+improving." />
+  <!-- Baris Pertama: Stats & Info -->
+  <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSYAH&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FAZRILARDIYANSYAH?label=followers&color=2563eb&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FAZRILARDIYANSYAH?style=for-the-badge&color=2563eb" alt="Stars" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-2563eb?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/FAZRILARDIYANSYAH">
-    <img src="https://img.shields.io/badge/GitHub-FAZRILARDIYANSYAH-181717?style=flat-square&logo=github" />
+  <!-- Baris Kedua: Social & Contact -->
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/fazril-ardiyansyah-18a00941a">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FAZRILARDIYANSYAH&label=Views&color=3B82F6&style=flat-square" />
+  <a href="https://x.com/username_kamu">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 <br>
